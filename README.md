@@ -20,6 +20,7 @@
 |:heavy_check_mark:|Qian|[example](./Lin%2C%20Talathi%20-%202016%20-%20Overcoming%20Challenges%20in%20Fixed%20Point%20Training%20of%20Deep%20Convolutional%20Networks.pdf)|
 |:heavy_check_mark:|Yuchen|[example](./Lin%2C%20Talathi%20-%202016%20-%20Overcoming%20Challenges%20in%20Fixed%20Point%20Training%20of%20Deep%20Convolutional%20Networks.pdf)|
 
+-------------------
 
 ### Week 2:
 
