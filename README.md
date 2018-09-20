@@ -40,3 +40,12 @@
 |:clock3:|Weitian|
 |:clock3:|Qian|
 |:clock3:|Yuchen|
+|:clock3:|Kexin|
+
+-------------------
+
+### Week 3:
+1. Another version of [XNOR-Net](https://github.com/XinDongol/reading_list/invitations) (With CUDA code in C++)
+
+
+
