@@ -46,6 +46,19 @@
 
 ### Week 3:
 1. Another version of [XNOR-Net](https://github.com/XinDongol/reading_list/invitations) (With CUDA code in C++)
+2. Backpropagation of quantization neural network 
+3. Report learning curve of CIFAR-10 of XNOR-Net
+
+#### Extensive Reading (Compulsory):
+1. Finish reading of previous articles.
+
+#### Submit:
+|#|Name|File|
+|---|---|----
+|:clock3:|Weitian|
+|:clock3:|Qian|
+|:clock3:|Yuchen|
+|:clock3:|Kexin|
 
 
 
