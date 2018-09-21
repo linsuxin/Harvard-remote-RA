@@ -1,5 +1,12 @@
 # reading_list
 
+> Python is highly required. 
+
+> Pytorch (or Tensorflow) is highly required.
+
+> People who want to do FPGA stuff is not required for python or pytorch.
+  
+
 ### Week 1:
 
 #### Plan: 
@@ -37,7 +44,7 @@
 #### Submit:
 |#|Name|File|
 |---|---|----
-|:clock3:|Weitian|
+|:heavy_check_mark:|Weitian|
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
