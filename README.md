@@ -46,7 +46,7 @@
 |---|---|----
 |:heavy_check_mark:|Weitian|
 |:clock3:|Qian|
-|:clock3:|Yuchen|.[example](./reading_list/Yuchen Cai/Report/W2 Report.pdf)
+|:clock3:|Yuchen|.[example](reading_list/Yuchen Cai/Report/W2 Report.pdf)
 |:clock3:|Kexin|
 
 -------------------
