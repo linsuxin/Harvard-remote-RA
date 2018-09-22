@@ -46,7 +46,7 @@
 |---|---|----
 |:heavy_check_mark:|Weitian|
 |:clock3:|Qian|
-|:clock3:|Yuchen|[example](https://github.com/XinDongol/reading_list/blob/master/Yuchen%20Cai/Report/W2%20Report.pdf)
+|:heavy_check_mark:|Yuchen|[example](https://github.com/XinDongol/reading_list/blob/master/Yuchen%20Cai/Report/W2%20Report.pdf)
 |:heavy_check_mark:|Kexin|[week2](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%202.pdf)
 
 -------------------
