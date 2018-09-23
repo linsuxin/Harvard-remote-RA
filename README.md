@@ -1,10 +1,14 @@
 # reading_list
 
-> Python is highly required. 
+> Python is highly required. C++ will help you.
 
 > Pytorch (or Tensorflow) is highly required.
 
 > People who want to do FPGA stuff is not required for python or pytorch.
+
+> Person who misses two reports will leave this group automatically.
+
+> Please contact with @wetian to join our mail list. 
   
 
 ### Week 1:
@@ -58,6 +62,8 @@
 
 #### Extensive Reading (Compulsory):
 1. Finish reading of previous articles.
+2. Deep Learning with Limited Numerical Precision [2015 ICML]
+
 
 #### Submit:
 |#|Name|File|
@@ -69,3 +75,23 @@
 
 
 
+-------------------
+
+### Week 4
+1. Summarized optimization problems and methods for quantization neural networks 
+
+
+#### Extensive Reading (Compulsory):
+1. Training Quantized Nets: A Deeper Understanding
+2. Deep Learning with Limited Numerical Precision
+3. Deep Learning with Low Precision by Half-wave Gaussian Quantization
+4. Training and Inference with Integers in Deep Neural Networks
+
+
+#### Submit:
+|#|Name|File|
+|---|---|----
+|:clock3:|Weitian|
+|:clock3:|Qian|
+|:clock3:|Yuchen|
+|:clock3:|Kexin|
