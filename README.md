@@ -6,7 +6,7 @@
 
 > People who want to do FPGA stuff is not required for python or pytorch.
 
-> Person who misses two reports will leave this group automatically.
+> **Person who misses two reports will leave this group automatically.**:bangbang:
 
 > Please contact with @wetian to join our mail list. 
   
@@ -87,6 +87,24 @@
 3. Deep Learning with Low Precision by Half-wave Gaussian Quantization
 4. Training and Inference with Integers in Deep Neural Networks
 
+
+#### Submit:
+|#|Name|File|
+|---|---|----
+|:clock3:|Weitian|
+|:clock3:|Qian|
+|:clock3:|Yuchen|
+|:clock3:|Kexin|
+
+
+-------------------
+
+### Week 5
+1. Understand *SignSGD* and *Binaryrelax* 
+
+#### Extensive Reading (Compulsory):
+1. signSGD: compressed optimisation for non-convex problems
+2. BinaryRelax: A Relaxation Approach For Training Deep Neural Networks With Quantized Weights
 
 #### Submit:
 |#|Name|File|
