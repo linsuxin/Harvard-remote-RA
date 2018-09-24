@@ -56,7 +56,7 @@
 -------------------
 
 ### Week 3:
-1. Another version of [XNOR-Net](https://github.com/XinDongol/reading_list/invitations) (With CUDA code in C++)
+1. Another version of [XNOR-Net](https://github.com/cooooorn/Pytorch-XNOR-Net) (With CUDA code in C++)
 2. Backpropagation of quantization neural network 
 3. Report learning curve of CIFAR-10 of XNOR-Net
 
