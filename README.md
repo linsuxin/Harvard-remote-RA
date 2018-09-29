@@ -104,7 +104,7 @@
 
 
 ### Week 5
-1. Reproduce [HWGQ](https://github.com/zhaoweicai/hwgq) with pytorch (If you want to join in one paper now, you should do this.) 
+1. Reproduce [HWGQ](https://github.com/zhaoweicai/hwgq) with TensorFlow (If you want to join in one paper now, you should do this.) 
 2. Write HWGQ layer in HWGQ with Cuda.
 
 #### Extensive Reading (Compulsory):
