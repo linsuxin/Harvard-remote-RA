@@ -72,6 +72,8 @@
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
+|:clock3:|Yudian|
+
 
 
 
@@ -96,11 +98,39 @@
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
-
+|:clock3:|Yudian|
 
 -------------------
-<!---
+
+
 ### Week 5
+1. Reproduce [HWGQ](https://github.com/zhaoweicai/hwgq) with pytorch (If you want to join in one paper now, you should do this.) 
+2. Write HWGQ layer in HWGQ with Cuda.
+
+#### Extensive Reading (Compulsory):
+1. Training Quantized Nets: A Deeper Understanding
+2. Deep Learning with Limited Numerical Precision
+3. Deep Learning with Low Precision by Half-wave Gaussian Quantization
+4. Training and Inference with Integers in Deep Neural Networks
+
+
+#### Submit:
+|#|Name|File|
+|---|---|----
+|:clock3:|Weitian|
+|:clock3:|Qian|
+|:clock3:|Yuchen|
+|:clock3:|Kexin|
+|:clock3:|Yudian|
+
+
+
+
+
+
+
+<!---
+### Week n
 1. Understand *SignSGD* and *Binaryrelax* 
 
 #### Extensive Reading (Compulsory):
