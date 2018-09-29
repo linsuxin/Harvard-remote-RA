@@ -79,6 +79,7 @@
 
 ### Week 4
 1. Summarized optimization problems and methods for quantization neural networks 
+2. Read code of [HWGQ](https://github.com/zhaoweicai/hwgq)
 
 
 #### Extensive Reading (Compulsory):
@@ -98,7 +99,7 @@
 
 
 -------------------
-
+<!---
 ### Week 5
 1. Understand *SignSGD* and *Binaryrelax* 
 
@@ -113,3 +114,6 @@
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
+
+-->
+
