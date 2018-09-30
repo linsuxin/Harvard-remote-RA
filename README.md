@@ -68,7 +68,7 @@
 #### Submit:
 |#|Name|File|
 |---|---|----
-|:clock3:|Weitian|
+|:heavy_check_mark:|Weitian|[week3](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%203%20Report.pdf)|
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
