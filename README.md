@@ -123,6 +123,27 @@
 |:clock3:|Kexin|
 |:clock3:|Yudian|
 
+-------------------
+
+
+### Week 6
+1. Understand [Batch Normalization](https://arxiv.org/abs/1502.03167).
+2. How to do batch normalization in quantization neural network. (Please refer to paper in extensive reading)
+
+#### Extensive Reading (Compulsory):
+1. [Quantizing deep convolutional networks for efficient inference: A whitepaper](./Lin%2C%20Talathi%20-%202016%20-%20Overcoming%20Challenges%20in%20Fixed%20Point%20Training%20of%20Deep%20Convolutional%20Networks.pdf) [Google]
+
+
+
+#### Submit:
+|#|Name|File|
+|---|---|----
+|:clock3:|Weitian|
+|:clock3:|Qian|
+|:clock3:|Yuchen|
+|:clock3:|Kexin|
+|:clock3:|Yudian|
+
 
 
 
