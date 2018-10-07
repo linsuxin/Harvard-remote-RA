@@ -97,7 +97,7 @@
 |:heavy_check_mark:|Weitian|[week4](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%204%20Report.pdf)
 |:clock3:|Qian|
 |:clock3:|Yuchen|
-|:clock3:|Kexin|
+|:heavy_check_mark:|Kexin|[week4](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%204.pdf)
 |:clock3:|Yudian|
 
 -------------------
