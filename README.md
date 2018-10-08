@@ -52,6 +52,7 @@
 |:heavy_check_mark:|Qian|[week1&2](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/week1%20%262.pdf)|
 |:heavy_check_mark:|Yuchen|[week2](https://github.com/XinDongol/reading_list/blob/master/Yuchen%20Cai/Report/W2%20Report.pdf)
 |:heavy_check_mark:|Kexin|[week2](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%202.pdf)
+|:heavy_check_mark:|Yufei|[week2](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/week%202.md)
 
 -------------------
 
