@@ -70,7 +70,7 @@
 |#|Name|File|
 |---|---|----
 |:heavy_check_mark:|Weitian|[week3](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%203%20Report.pdf)|
-|:clock3:|Qian|
+|:heavy_check_mark:|Qian|[week3](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/Week%203.pdf)
 |:clock3:|Yuchen|
 |:heavy_check_mark:|Kexin|[week3](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%203.pdf)
 |:clock3:|Yudian|
@@ -96,7 +96,7 @@
 |#|Name|File|
 |---|---|----
 |:heavy_check_mark:|Weitian|[week4](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%204%20Report.pdf)
-|:clock3:|Qian|
+|:heavy_check_mark:|Qian|[week4](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/Week%204.pdf)
 |:clock3:|Yuchen|
 |:heavy_check_mark:|Kexin|[week4](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%204.pdf)
 |:clock3:|Yudian|
