@@ -94,4 +94,5 @@ class BinOp():
 
 ## Backpropagation of neural network 
 
-## Backpropagation of quantization neural network 
+## BP in XNOR-NETWORK
+ ![BP in xnor network](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/BP%20in%20XNOR.jpg)
