@@ -1,14 +1,18 @@
 # reading_list
 
-> Python is highly required. C++ will help you.
+> * Python is highly required. C++ will help you.
+> * Pytorch (or Tensorflow) is highly required.
+> * People who want to do FPGA stuff is not required for python or pytorch.
+> * **Person who misses two reports will leave this group automatically.**:bangbang: If you cannot find your name blow, please add it by yourself.
+> * Please contact with @wetian to join our mail list. 
 
-> Pytorch (or Tensorflow) is highly required.
+> routine of weekly meeting:
+> 1. submit report before meeting.
+> 2. each member updates the research activities conducted in the past week (2-3 minutes). 
+> 3. reading group: story one person will be the presenter. at this stage, your responsibility is to present published papers of a theme (a story summarized from 3-5 relevant papers). 
+> 4. the presentation is for half hour, slides will help you a lot.
+Presenter are supposed to upload their slides to github.
 
-> People who want to do FPGA stuff is not required for python or pytorch.
-
-> **Person who misses two reports will leave this group automatically.**:bangbang:
-
-> Please contact with @wetian to join our mail list. 
   
 
 ### Week 1:
@@ -73,7 +77,7 @@
 |:heavy_check_mark:|Qian|[week3](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/Week%203.pdf)
 |:clock3:|Yuchen|
 |:heavy_check_mark:|Kexin|[week3](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%203.pdf)
-|:clock3:|Yudian|
+|:x:|Yudian|
 |:heavy_check_mark:|Yufei|[week3](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/week%203.md)
 
 
@@ -99,7 +103,7 @@
 |:heavy_check_mark:|Qian|[week4](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/Week%204.pdf)
 |:clock3:|Yuchen|
 |:heavy_check_mark:|Kexin|[week4](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%204.pdf)
-|:clock3:|Yudian|
+| :x:|Yudian|
 |:heavy_check_mark:|Yufei|[week4](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/week%204.md)
 
 -------------------
