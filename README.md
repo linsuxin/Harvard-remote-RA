@@ -100,6 +100,7 @@
 |:clock3:|Yuchen|
 |:heavy_check_mark:|Kexin|[week4](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%204.pdf)
 |:clock3:|Yudian|
+|:heavy_check_mark:|Yufei|[week4](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/week%204s.pdf)
 
 -------------------
 
