@@ -12,7 +12,7 @@
 > 3. reading group: story one person will be the presenter. at this stage, your responsibility is to present published papers of a theme (a story summarized from 3-5 relevant papers). 
 > 4. the presentation is for half hour, slides will help you a lot.
 Presenter are supposed to upload their slides to github.
-
+> 5. the information of report should be uploaded [here](./report_record.md)
   
 
 ### Week 1:
