@@ -130,6 +130,7 @@ Presenter are supposed to upload their slides to github.
 |:clock3:|Yufei|
 |:clock3:|Yuhang|
 |:clock3:|Jieming|
+|:clock3:|Suxin|
 
 -------------------
 
