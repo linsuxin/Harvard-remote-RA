@@ -101,7 +101,7 @@ Presenter are supposed to upload their slides to github.
 |---|---|----
 |:heavy_check_mark:|Weitian|[week4](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%204%20Report.pdf)
 |:heavy_check_mark:|Qian|[week4](https://github.com/XinDongol/reading_list/blob/master/Qian%20Jiang/Week%204.pdf)
-|:clock3:|Yuchen|
+|:heavy_check_mark:|Yuchen|[week4](https://github.com/XinDongol/reading_list/blob/master/Yuchen%20Cai/Report/Week4.pdf)
 |:heavy_check_mark:|Kexin|[week4](https://github.com/XinDongol/reading_list/blob/master/Kexin%20Fan/Week%204.pdf)
 | :x:|Yudian|
 |:heavy_check_mark:|Yufei|[week4](https://github.com/XinDongol/reading_list/blob/master/Yufei%20Wang/week%204.md)
