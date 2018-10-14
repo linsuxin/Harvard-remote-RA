@@ -123,7 +123,7 @@ Presenter are supposed to upload their slides to github.
 #### Submit:
 |#|Name|File|
 |---|---|----
-|:clock3:|Weitian|
+|:heavy_check_mark:|Weitian|[week5](https://github.com/XinDongol/reading_list/blob/master/Weitian%20Li/Week%205%20Report.pdf)
 |:clock3:|Qian|
 |:clock3:|Yuchen|
 |:clock3:|Kexin|
