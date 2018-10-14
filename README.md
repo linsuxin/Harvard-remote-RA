@@ -5,6 +5,7 @@
 > * People who want to do FPGA stuff is not required for python or pytorch.
 > * **Person who misses two reports will leave this group automatically.**:bangbang: If you cannot find your name blow, please add it by yourself.
 > * Please contact with @wetian to join our mail list. 
+> * Please join Google hangout https://hangouts.google.com/group/27qPkOU4jV2Adh2Z2 
 
 > routine of weekly meeting:
 > 1. submit report before meeting.
